@@ -1,6 +1,5 @@
-# CafeCoin
-es una moneda colombiana basada en el café
-por y para colombianos
+# Cafe Token
+Representa una taza de café colombiano listo para tomar
 
 # En que nos basamos
 basados en nuestro producto insignia que es el café
